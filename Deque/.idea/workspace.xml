@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3b5aeae-f43a-4512-9a74-1ad8a6d24f22" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XucSIOzAQH14UBMv2VsUlF3sLO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DequeJasonTest">
+    <configuration name="APEUnit3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="APEUnit3" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DequeJasonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DequeJasonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DequePeterTestClarified" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DequePeterTestClarified" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DequeStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DequeStudentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DequeJasonTest" />
+        <item itemvalue="JUnit.DequePeterTestClarified" />
+        <item itemvalue="JUnit.APEUnit3" />
+        <item itemvalue="JUnit.DequeStudentTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3b5aeae-f43a-4512-9a74-1ad8a6d24f22" name="Default Changelist" comment="" />
+      <created>1581899417207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581899417207</updated>
+      <workItem from="1581899418665" duration="2016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1340" height="217" key="GridCell.Tab.0.bottom" timestamp="1581902356693">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="1340" height="217" key="GridCell.Tab.0.bottom/41.23.1399.877@41.23.1399.877" timestamp="1581900553337" />
+    <state width="1340" height="217" key="GridCell.Tab.0.bottom/42.23.1398.877@42.23.1398.877" timestamp="1581902356693" />
+    <state width="1340" height="217" key="GridCell.Tab.0.center" timestamp="1581902356693">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="1340" height="217" key="GridCell.Tab.0.center/41.23.1399.877@41.23.1399.877" timestamp="1581900553336" />
+    <state width="1340" height="217" key="GridCell.Tab.0.center/42.23.1398.877@42.23.1398.877" timestamp="1581902356693" />
+    <state width="1340" height="217" key="GridCell.Tab.0.left" timestamp="1581902356692">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="1340" height="217" key="GridCell.Tab.0.left/41.23.1399.877@41.23.1399.877" timestamp="1581900553335" />
+    <state width="1340" height="217" key="GridCell.Tab.0.left/42.23.1398.877@42.23.1398.877" timestamp="1581902356692" />
+    <state width="1340" height="217" key="GridCell.Tab.0.right" timestamp="1581902356693">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="1340" height="217" key="GridCell.Tab.0.right/41.23.1399.877@41.23.1399.877" timestamp="1581900553336" />
+    <state width="1340" height="217" key="GridCell.Tab.0.right/42.23.1398.877@42.23.1398.877" timestamp="1581902356693" />
+    <state x="448" y="342" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581900459923">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state x="448" y="342" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/41.23.1399.877@41.23.1399.877" timestamp="1581900459923" />
+  </component>
+</project>

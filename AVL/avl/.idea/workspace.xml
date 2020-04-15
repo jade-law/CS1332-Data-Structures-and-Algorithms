@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf8690f8-5bc1-4bc8-ac7d-86372637aa61" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YuvrpgWC8EzyZdvqyNSE7iN9oD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="JUnit.SchottJUnit07$TestRemove.testRemoveRootExtreme">
+    <configuration name="SchottJUnit07$TestRemove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="avl" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SchottJUnit07$TestRemove" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchottJUnit07$TestRemove.testRemoveRootExtreme" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="avl" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SchottJUnit07$TestRemove" />
+      <option name="METHOD_NAME" value="testRemoveRootExtreme" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchottJUnit07$TestRemove.testRemoveRootMultiple" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="avl" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SchottJUnit07$TestRemove" />
+      <option name="METHOD_NAME" value="testRemoveRootMultiple" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchottJUnit07$TestRemove.testRemoveRootUntilPredecessorRotation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="avl" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SchottJUnit07$TestRemove" />
+      <option name="METHOD_NAME" value="testRemoveRootUntilPredecessorRotation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchottJUnit07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="avl" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SchottJUnit07" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SchottJUnit07$TestRemove.testRemoveRootExtreme" />
+        <item itemvalue="JUnit.SchottJUnit07$TestRemove.testRemoveRootUntilPredecessorRotation" />
+        <item itemvalue="JUnit.SchottJUnit07$TestRemove.testRemoveRootMultiple" />
+        <item itemvalue="JUnit.SchottJUnit07" />
+        <item itemvalue="JUnit.SchottJUnit07$TestRemove" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf8690f8-5bc1-4bc8-ac7d-86372637aa61" name="Default Changelist" comment="" />
+      <created>1583805494201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583805494201</updated>
+      <workItem from="1583805495965" duration="6097000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1340" height="269" key="GridCell.Tab.0.bottom" timestamp="1583819385028">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1340" height="269" key="GridCell.Tab.0.bottom/41.23.1399.877@41.23.1399.877" timestamp="1583819385028" />
+    <state width="1340" height="269" key="GridCell.Tab.0.center" timestamp="1583819385028">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1340" height="269" key="GridCell.Tab.0.center/41.23.1399.877@41.23.1399.877" timestamp="1583819385028" />
+    <state width="1340" height="269" key="GridCell.Tab.0.left" timestamp="1583819385027">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1340" height="269" key="GridCell.Tab.0.left/41.23.1399.877@41.23.1399.877" timestamp="1583819385027" />
+    <state width="1340" height="269" key="GridCell.Tab.0.right" timestamp="1583819385028">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1340" height="269" key="GridCell.Tab.0.right/41.23.1399.877@41.23.1399.877" timestamp="1583819385028" />
+    <state x="448" y="342" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583805513847">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state x="448" y="342" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/41.23.1399.877@41.23.1399.877" timestamp="1583805513847" />
+  </component>
+</project>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d85260e8-1f46-4f6c-91bf-5ebcc0d25ff6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XuQeSnmfjiaz4Tpp4VkZH3sc4K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ArrayListEltonTest">
+    <configuration name="ArrayListEltonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayListEltonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayListStudentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArrayListEltonTest" />
+        <item itemvalue="JUnit.ArrayListStudentTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d85260e8-1f46-4f6c-91bf-5ebcc0d25ff6" name="Default Changelist" comment="" />
+      <created>1581893594428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581893594428</updated>
+      <workItem from="1581893596023" duration="251000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1340" height="217" key="GridCell.Tab.0.bottom" timestamp="1581893869315">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="1340" height="217" key="GridCell.Tab.0.bottom/42.23.1398.877@42.23.1398.877" timestamp="1581893869315" />
+    <state width="1340" height="217" key="GridCell.Tab.0.center" timestamp="1581893869314">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="1340" height="217" key="GridCell.Tab.0.center/42.23.1398.877@42.23.1398.877" timestamp="1581893869314" />
+    <state width="1340" height="217" key="GridCell.Tab.0.left" timestamp="1581893869313">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="1340" height="217" key="GridCell.Tab.0.left/42.23.1398.877@42.23.1398.877" timestamp="1581893869313" />
+    <state width="1340" height="217" key="GridCell.Tab.0.right" timestamp="1581893869315">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="1340" height="217" key="GridCell.Tab.0.right/42.23.1398.877@42.23.1398.877" timestamp="1581893869315" />
+    <state x="232" y="23" key="SettingsEditor" timestamp="1581893866080">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state x="232" y="23" key="SettingsEditor/42.23.1398.877@42.23.1398.877" timestamp="1581893866080" />
+    <state x="448" y="342" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581893718234">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state x="448" y="342" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/42.23.1398.877@42.23.1398.877" timestamp="1581893718234" />
+  </component>
+</project>

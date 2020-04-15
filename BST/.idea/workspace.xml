@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfb87fea-5c8d-42b8-b392-d37ed438ff7d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XuiSOB3dSIrpRMEs0kQFalIrfW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/.idea" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BSTStudentTest">
+    <configuration name="BSTEdgeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BSTEdgeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BSTPeterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BSTPeterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BSTStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BSTStudentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BSTTepisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BSTTepisTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomTestMichaelEinhorn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RandomTestMichaelEinhorn" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BSTStudentTest" />
+        <item itemvalue="JUnit.RandomTestMichaelEinhorn" />
+        <item itemvalue="JUnit.BSTTepisTest" />
+        <item itemvalue="JUnit.BSTEdgeTest" />
+        <item itemvalue="JUnit.BSTPeterTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfb87fea-5c8d-42b8-b392-d37ed438ff7d" name="Default Changelist" comment="" />
+      <created>1581902378325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581902378325</updated>
+      <workItem from="1581902379690" duration="630000" />
+      <workItem from="1582407605631" duration="1225000" />
+      <workItem from="1582408960753" duration="209000" />
+      <workItem from="1583804687069" duration="783000" />
+      <workItem from="1584242995332" duration="1508000" />
+      <workItem from="1586579294110" duration="1043000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1340" height="217" key="GridCell.Tab.0.bottom" timestamp="1586585798437">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1340" height="217" key="GridCell.Tab.0.bottom/40.23.1400.877@40.23.1400.877" timestamp="1584244507280" />
+    <state width="1340" height="217" key="GridCell.Tab.0.bottom/41.23.1399.877@41.23.1399.877" timestamp="1586585798437" />
+    <state width="1340" height="217" key="GridCell.Tab.0.bottom/42.23.1398.877@42.23.1398.877" timestamp="1582409240685" />
+    <state width="1340" height="217" key="GridCell.Tab.0.center" timestamp="1586585798436">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1340" height="217" key="GridCell.Tab.0.center/40.23.1400.877@40.23.1400.877" timestamp="1584244507280" />
+    <state width="1340" height="217" key="GridCell.Tab.0.center/41.23.1399.877@41.23.1399.877" timestamp="1586585798436" />
+    <state width="1340" height="217" key="GridCell.Tab.0.center/42.23.1398.877@42.23.1398.877" timestamp="1582409240684" />
+    <state width="1340" height="217" key="GridCell.Tab.0.left" timestamp="1586585798436">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1340" height="217" key="GridCell.Tab.0.left/40.23.1400.877@40.23.1400.877" timestamp="1584244507279" />
+    <state width="1340" height="217" key="GridCell.Tab.0.left/41.23.1399.877@41.23.1399.877" timestamp="1586585798436" />
+    <state width="1340" height="217" key="GridCell.Tab.0.left/42.23.1398.877@42.23.1398.877" timestamp="1582409240684" />
+    <state width="1340" height="217" key="GridCell.Tab.0.right" timestamp="1586585798436">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1340" height="217" key="GridCell.Tab.0.right/40.23.1400.877@40.23.1400.877" timestamp="1584244507280" />
+    <state width="1340" height="217" key="GridCell.Tab.0.right/41.23.1399.877@41.23.1399.877" timestamp="1586585798436" />
+    <state width="1340" height="217" key="GridCell.Tab.0.right/42.23.1398.877@42.23.1398.877" timestamp="1582409240685" />
+    <state x="244" y="80" key="SettingsEditor" timestamp="1583804825431">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state x="244" y="80" key="SettingsEditor/41.23.1399.877@41.23.1399.877" timestamp="1583804825431" />
+    <state x="245" y="80" key="SettingsEditor/42.23.1398.877@42.23.1398.877" timestamp="1582407683928" />
+    <state x="448" y="342" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581902400907">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state x="448" y="342" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/42.23.1398.877@42.23.1398.877" timestamp="1581902400907" />
+  </component>
+</project>

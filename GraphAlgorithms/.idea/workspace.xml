@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98950eb1-701c-4c6a-a7a9-4415dbaea967" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YB1jkCoFxYQ5tQGzwilQjKWS3h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="JUnit.GraphAlgorithmsPeterTest">
+    <configuration name="GraphAlgorithmsPeterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw10" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphAlgorithmsPeterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphAlgorithmsPeterTest.testDijkstra" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw10" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphAlgorithmsPeterTest" />
+      <option name="METHOD_NAME" value="testDijkstra" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphAlgorithmsPeterTest.testKruskals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw10" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphAlgorithmsPeterTest" />
+      <option name="METHOD_NAME" value="testKruskals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphAlgorithmsStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw10" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphAlgorithmsStudentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphAlgorithmsStudentTest.testDijkstras" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw10" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphAlgorithmsStudentTest" />
+      <option name="METHOD_NAME" value="testDijkstras" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GraphAlgorithmsPeterTest" />
+        <item itemvalue="JUnit.GraphAlgorithmsStudentTest" />
+        <item itemvalue="JUnit.GraphAlgorithmsPeterTest.testDijkstra" />
+        <item itemvalue="JUnit.GraphAlgorithmsStudentTest.testDijkstras" />
+        <item itemvalue="JUnit.GraphAlgorithmsPeterTest.testKruskals" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98950eb1-701c-4c6a-a7a9-4415dbaea967" name="Default Changelist" comment="" />
+      <created>1582401310667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582401310667</updated>
+      <workItem from="1582401313881" duration="5646000" />
+      <workItem from="1586920067249" duration="77000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1340" height="217" key="GridCell.Tab.0.bottom" timestamp="1586920143949">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state width="1340" height="217" key="GridCell.Tab.0.bottom/39.23.1401.877@39.23.1401.877" timestamp="1586920143949" />
+    <state width="1340" height="269" key="GridCell.Tab.0.bottom/41.23.1399.877@41.23.1399.877" timestamp="1582407582548" />
+    <state width="1340" height="217" key="GridCell.Tab.0.bottom/42.23.1398.877@42.23.1398.877" timestamp="1582402300670" />
+    <state width="1340" height="217" key="GridCell.Tab.0.center" timestamp="1586920143948">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state width="1340" height="217" key="GridCell.Tab.0.center/39.23.1401.877@39.23.1401.877" timestamp="1586920143948" />
+    <state width="1340" height="269" key="GridCell.Tab.0.center/41.23.1399.877@41.23.1399.877" timestamp="1582407582547" />
+    <state width="1340" height="217" key="GridCell.Tab.0.center/42.23.1398.877@42.23.1398.877" timestamp="1582402300669" />
+    <state width="1340" height="217" key="GridCell.Tab.0.left" timestamp="1586920143948">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state width="1340" height="217" key="GridCell.Tab.0.left/39.23.1401.877@39.23.1401.877" timestamp="1586920143948" />
+    <state width="1340" height="269" key="GridCell.Tab.0.left/41.23.1399.877@41.23.1399.877" timestamp="1582407582547" />
+    <state width="1340" height="217" key="GridCell.Tab.0.left/42.23.1398.877@42.23.1398.877" timestamp="1582402300669" />
+    <state width="1340" height="217" key="GridCell.Tab.0.right" timestamp="1586920143948">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state width="1340" height="217" key="GridCell.Tab.0.right/39.23.1401.877@39.23.1401.877" timestamp="1586920143948" />
+    <state width="1340" height="269" key="GridCell.Tab.0.right/41.23.1399.877@41.23.1399.877" timestamp="1582407582548" />
+    <state width="1340" height="217" key="GridCell.Tab.0.right/42.23.1398.877@42.23.1398.877" timestamp="1582402300670" />
+    <state x="448" y="342" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582401369510">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state x="448" y="342" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/42.23.1398.877@42.23.1398.877" timestamp="1582401369510" />
+    <state x="409" y="203" width="670" height="676" key="search.everywhere.popup" timestamp="1582401880101">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state x="409" y="203" width="670" height="676" key="search.everywhere.popup/42.23.1398.877@42.23.1398.877" timestamp="1582401880101" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GraphAlgorithmsPeterTest.java</url>
+          <line>545</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

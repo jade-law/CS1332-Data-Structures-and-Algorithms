@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="701a5255-e364-420c-8650-99c3175d8bb0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1RtzUtSRPRrrcupYJUxYXkwuRsk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AVLStudentTest">
+    <configuration name="AVLAndrewTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLAndrewTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AVLAndrewTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLAndrewTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AVLPeterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLPeterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AVLStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLStudentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomTestMichaelEinhorn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RandomTestMichaelEinhorn" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AVLStudentTest" />
+        <item itemvalue="JUnit.RandomTestMichaelEinhorn" />
+        <item itemvalue="JUnit.AVLPeterTest" />
+        <item itemvalue="JUnit.AVLAndrewTest (1)" />
+        <item itemvalue="JUnit.AVLAndrewTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="701a5255-e364-420c-8650-99c3175d8bb0" name="Default Changelist" comment="" />
+      <created>1570501198783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570501198783</updated>
+      <workItem from="1570501201844" duration="3439000" />
+      <workItem from="1570838096645" duration="4990000" />
+      <workItem from="1571605000359" duration="17487000" />
+      <workItem from="1586589284230" duration="378000" />
+      <workItem from="1586644548638" duration="37000" />
+      <workItem from="1586734386889" duration="136000" />
+      <workItem from="1586915502725" duration="2821000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1340" height="213" key="GridCell.Tab.0.bottom" timestamp="1586918585554">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state width="1340" height="213" key="GridCell.Tab.0.bottom/39.23.1401.877@39.23.1401.877" timestamp="1586918585554" />
+    <state width="1340" height="215" key="GridCell.Tab.0.bottom/40.23.1400.877@40.23.1400.877" timestamp="1586734523773" />
+    <state width="1340" height="213" key="GridCell.Tab.0.center" timestamp="1586918585554">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state width="1340" height="213" key="GridCell.Tab.0.center/39.23.1401.877@39.23.1401.877" timestamp="1586918585554" />
+    <state width="1340" height="215" key="GridCell.Tab.0.center/40.23.1400.877@40.23.1400.877" timestamp="1586734523772" />
+    <state width="1340" height="213" key="GridCell.Tab.0.left" timestamp="1586918585554">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state width="1340" height="213" key="GridCell.Tab.0.left/39.23.1401.877@39.23.1401.877" timestamp="1586918585554" />
+    <state width="1340" height="215" key="GridCell.Tab.0.left/40.23.1400.877@40.23.1400.877" timestamp="1586734523772" />
+    <state width="1340" height="213" key="GridCell.Tab.0.right" timestamp="1586918585554">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state width="1340" height="213" key="GridCell.Tab.0.right/39.23.1401.877@39.23.1401.877" timestamp="1586918585554" />
+    <state width="1340" height="215" key="GridCell.Tab.0.right/40.23.1400.877@40.23.1400.877" timestamp="1586734523772" />
+  </component>
+</project>

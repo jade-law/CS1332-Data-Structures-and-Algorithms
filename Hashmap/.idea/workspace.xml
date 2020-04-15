@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee186481-c226-4eb2-bdaf-90865fa11aff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Y98lzZDM2xIJ8ycZJNSBgK3nZW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="JUnit.LinearProbingTepisTest">
+    <configuration name="LinearProbingHashMapPeterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinearProbingHashMapPeterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearProbingHashMapPeterTest.testResizeDuplicateKeys" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinearProbingHashMapPeterTest" />
+      <option name="METHOD_NAME" value="testResizeDuplicateKeys" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearProbingHashMapPeterTest.testWrappingRemove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinearProbingHashMapPeterTest" />
+      <option name="METHOD_NAME" value="testWrappingRemove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearProbingTepisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinearProbingTepisTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearProbingTepisTest.testContainsKeyCondenseCircularWithRemoved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinearProbingTepisTest" />
+      <option name="METHOD_NAME" value="testContainsKeyCondenseCircularWithRemoved" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LinearProbingTepisTest" />
+        <item itemvalue="JUnit.LinearProbingTepisTest.testContainsKeyCondenseCircularWithRemoved" />
+        <item itemvalue="JUnit.LinearProbingHashMapPeterTest" />
+        <item itemvalue="JUnit.LinearProbingHashMapPeterTest.testResizeDuplicateKeys" />
+        <item itemvalue="JUnit.LinearProbingHashMapPeterTest.testWrappingRemove" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee186481-c226-4eb2-bdaf-90865fa11aff" name="Default Changelist" comment="" />
+      <created>1582343604825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582343604825</updated>
+      <workItem from="1582343608018" duration="157000" />
+      <workItem from="1586585835025" duration="78000" />
+      <workItem from="1586586010988" duration="3067000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1340" height="269" key="GridCell.Tab.0.bottom" timestamp="1586589282779">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state width="1340" height="269" key="GridCell.Tab.0.bottom/40.23.1400.877@40.23.1400.877" timestamp="1586589282779" />
+    <state width="1340" height="217" key="GridCell.Tab.0.bottom/41.23.1399.877@41.23.1399.877" timestamp="1586586312768" />
+    <state width="1340" height="217" key="GridCell.Tab.0.bottom/42.23.1398.877@42.23.1398.877" timestamp="1582343764646" />
+    <state width="1340" height="269" key="GridCell.Tab.0.center" timestamp="1586589282778">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state width="1340" height="269" key="GridCell.Tab.0.center/40.23.1400.877@40.23.1400.877" timestamp="1586589282778" />
+    <state width="1340" height="217" key="GridCell.Tab.0.center/41.23.1399.877@41.23.1399.877" timestamp="1586586312767" />
+    <state width="1340" height="217" key="GridCell.Tab.0.center/42.23.1398.877@42.23.1398.877" timestamp="1582343764645" />
+    <state width="1340" height="269" key="GridCell.Tab.0.left" timestamp="1586589282777">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state width="1340" height="269" key="GridCell.Tab.0.left/40.23.1400.877@40.23.1400.877" timestamp="1586589282777" />
+    <state width="1340" height="217" key="GridCell.Tab.0.left/41.23.1399.877@41.23.1399.877" timestamp="1586586312766" />
+    <state width="1340" height="217" key="GridCell.Tab.0.left/42.23.1398.877@42.23.1398.877" timestamp="1582343764644" />
+    <state width="1340" height="269" key="GridCell.Tab.0.right" timestamp="1586589282778">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state width="1340" height="269" key="GridCell.Tab.0.right/40.23.1400.877@40.23.1400.877" timestamp="1586589282778" />
+    <state width="1340" height="217" key="GridCell.Tab.0.right/41.23.1399.877@41.23.1399.877" timestamp="1586586312768" />
+    <state width="1340" height="217" key="GridCell.Tab.0.right/42.23.1398.877@42.23.1398.877" timestamp="1582343764645" />
+    <state x="448" y="342" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582343655456">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state x="448" y="342" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/42.23.1398.877@42.23.1398.877" timestamp="1582343655456" />
+  </component>
+</project>

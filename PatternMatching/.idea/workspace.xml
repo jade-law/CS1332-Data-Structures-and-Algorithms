@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8a93db7-17a6-4ce0-8d17-0c5763da2d28" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1T84ou2OCx5YX1EboKMPyVnbI1u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PatternMatchingPeterTest">
+    <configuration name="PatternMatchingPeterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PatternMatchingPeterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatternMatchingPeterTest.testBuildFailureTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PatternMatchingPeterTest" />
+      <option name="METHOD_NAME" value="testBuildFailureTable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatternMatchingPeterTest.testBuildSaiSlideFailureTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PatternMatchingPeterTest" />
+      <option name="METHOD_NAME" value="testBuildSaiSlideFailureTable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatternMatchingPeterTest.testSaiSlideKMP" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PatternMatchingPeterTest" />
+      <option name="METHOD_NAME" value="testSaiSlideKMP" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatternMatchingStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PatternMatchingStudentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PatternMatchingPeterTest" />
+        <item itemvalue="JUnit.PatternMatchingStudentTest" />
+        <item itemvalue="JUnit.PatternMatchingPeterTest.testBuildFailureTable" />
+        <item itemvalue="JUnit.PatternMatchingPeterTest.testBuildSaiSlideFailureTable" />
+        <item itemvalue="JUnit.PatternMatchingPeterTest.testSaiSlideKMP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8a93db7-17a6-4ce0-8d17-0c5763da2d28" name="Default Changelist" comment="" />
+      <created>1572828566653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572828566653</updated>
+      <workItem from="1572828568474" duration="27787000" />
+      <workItem from="1586918620848" duration="1400000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1340" height="217" key="GridCell.Tab.0.bottom" timestamp="1586920032620">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state width="1340" height="217" key="GridCell.Tab.0.bottom/39.23.1401.877@39.23.1401.877" timestamp="1586920032620" />
+    <state width="1340" height="217" key="GridCell.Tab.0.center" timestamp="1586920032619">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state width="1340" height="217" key="GridCell.Tab.0.center/39.23.1401.877@39.23.1401.877" timestamp="1586920032619" />
+    <state width="1340" height="217" key="GridCell.Tab.0.left" timestamp="1586920032619">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state width="1340" height="217" key="GridCell.Tab.0.left/39.23.1401.877@39.23.1401.877" timestamp="1586920032619" />
+    <state width="1340" height="217" key="GridCell.Tab.0.right" timestamp="1586920032620">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state width="1340" height="217" key="GridCell.Tab.0.right/39.23.1401.877@39.23.1401.877" timestamp="1586920032620" />
+    <state x="332" y="191" key="IDE.errors.dialog" timestamp="1586918814845">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state x="332" y="191" key="IDE.errors.dialog/39.23.1401.877@39.23.1401.877" timestamp="1586918814845" />
+  </component>
+</project>
